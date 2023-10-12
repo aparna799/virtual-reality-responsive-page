@@ -1,0 +1,230 @@
+#style1{
+    color:black;
+}
+#style2{
+    color:black;
+}
+#style3{
+    color:black;
+}#style4{
+    color:black;
+    
+}
+.text-align{
+    margin-left: auto;
+}
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height:100vh;
+    background-size: cover;
+}
+.heading{
+    color:white;
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.button{
+    border-radius: 8px;
+    color:white;
+    background-color: #1a2137;
+    border-width: 0px;
+    width:150px;
+    font-size: 20px;
+    height:40px;
+    padding:5px;
+}
+.f-heading{
+  font-family: "Roboto";
+  font-size:28px;
+  color:#1f2933;
+  font-weight: 700;
+}
+.f-card{
+  background-color: white;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+}
+.f-image{
+  height:100px;
+  width:100px;
+}
+.card1-heading{
+  font-size:20px ;
+  font-family: "Roboto";
+  color:#1f2933;
+  font-weight: 500;
+  padding-top: 20px;
+}
+.card1-para{
+  font-family: "Roboto";
+  font-size: 15px;
+  color:#7b8794;
+}
+.span{
+  font-style: italic;
+  font-weight: 600;
+  color:#323f4b;
+}
+.feature-section {
+  background-color: #f9fbfe;
+}
+.kit-image{
+  height:304px;
+  width:280px;
+}
+.kit-para{
+  font-family: "Roboto";
+  font-size: 18px;
+  color:#323f4b;
+}
+.kit-card{
+  background-color: white;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+}
+.optic-image{
+  height:300px;
+  width:300px;
+}
+.optic-button{
+  background-color: #1a2137;
+  padding:5px;
+  color:white;
+  border-radius: 5px;
+  width:100px;
+  margin:10px;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+.optic-para{
+  color:#7b8794;
+}
+.bg{
+  background-color: #222b36;
+  background-size: cover;
+}
+  
+.head {
+  font-size: 35px;
+  color: white;
+}
+
+.btnn {
+  height: 30px;
+  width: 130px;
+  border-color: white;
+  color: white;
+  border-width: 1px;
+  background-color: #222b36;
+}
+.trending-bg{
+  background-color: white;
+
+}
+.trending-card{
+  background-color:white;
+  border-radius: 5px;
+  
+  
+}
+.trending-image{
+  height:200px;
+  width:300px;
+  padding:0px;
+}
+.trend-para{
+  font-size: 13px;
+  color:#323f4b;
+  padding-left:10px;
+  padding-top:10px;
+}
+.link{
+  font-size:15px;
+  color:blue;
+  padding-left:10px;
+  
+  
+}
+.trend-para2{
+  padding-left:10px;
+}
+.trend-button{
+  background-color:#1754a1;
+  border-radius: 5px;
+  border-width: 0px;
+  color:white;
+  padding:10px;
+  width:150px;
+  
+
+}
+.product-image1{
+  background-image: url("vr-products-headset-img.png");
+  height: 100vh;
+  background-size: cover;
+  
+}
+.product-heading{
+  color:white;
+}
+.product-para{
+  color:white;
+}
+.product-button{
+  background-color: transparent;
+  border-color: white;
+  border-radius: 10px;
+  border-width: 1px;
+  color:white;
+  padding:8px;
+}
+.product-bg{
+  background-color: white;
+}
+.product-image2{
+  background-image: url("vr-products-headset-with-controllers-img.png");
+  background-size: cover;
+  
+}
+.flex1{
+    background-color: #202b36;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+  
+}
+.icon{
+  color: #959ead;
+  font-size: 35px;
+}
+.final-section-container{
+  background-color: #19232d;
+  background-size: cover;
+  width: 100vw;
+}
+.final-para{
+  color:#959ead;
+}
+.contact{
+  color:#959ead;
+}
+.icon1{
+  color: #959ead;
+  font-size: 23px;
+  padding-right: 8px;
+  
+  background-size: cover;
+
+}
